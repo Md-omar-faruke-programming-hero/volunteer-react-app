@@ -31,7 +31,7 @@ function App() {
             <Route path="/event">
               <Event></Event>
             </Route>
-            <Route path="/myevent">
+            <Route path="/omar">
               <MyEvent></MyEvent>
             </Route>
             <Route path="/volunteerList">

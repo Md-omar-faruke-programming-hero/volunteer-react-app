@@ -1,5 +1,5 @@
-import React, { useEffect } from 'react';
-import { useState } from 'react/cjs/react.development';
+import React, { useEffect, useState } from 'react';
+
 import logo from "../../image/logos/Group 1329.png"
 import logoo from "../../image/logos/users-alt 1.png"
 
@@ -15,7 +15,7 @@ const VolunteerList = () => {
 
 
     const deleteUser=(id)=>{
-        fetch(`https://stark-taiga-98347.herokuapp.com/volunteer/${id}`,{
+        fetch(`https://stark-taiga-98347.herokuapp.com/Fvolunteer/${id}`,{
             method:"delete"
         }).then(res=>res.json())
         .then(data=>{
