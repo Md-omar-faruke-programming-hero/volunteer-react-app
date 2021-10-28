@@ -1,0 +1,184 @@
+[
+    {
+        "name":"Spiral CT scanner",
+        "title":" A spiral computed tomography (CT) scan takes images using radiation. ... Spiral CT uses a faster machine that spins continuously around the body. This allows it to more quickly detect images and spot problems. It can also detect small nodules (early-stage lung disease) that cannot be clearly seen on chest x-rays.",
+	    "price":"6.99 ",
+        "img":"https://i.ibb.co/yBrDFCD/spiral-ct-scanner-1578728342.jpg",
+        "id":1
+        
+    },
+    
+    {   "id":2,
+        "name":"Hemodialysis",
+        "title":"Hemodialysis, also spelled haemodialysis, or simply dialysis, is a process of purifying the blood of a person whose kidneys are not working normally.",
+	    "price":"4.99 ",
+        "img":"https://i.ibb.co/T1DmvZX/opg-1578728742.jpg"
+        
+        
+    },
+    {   "id":3,
+        "name":"Digital X-ray",
+        "title":" Digital radiography is a form of radiography that uses x-ray–sensitive plates to directly capture data during the patient examination, immediately transferring it to a computer system without the use of an intermediate cassette.",
+	    "price":"3.99 ",
+        "img":" https://i.ibb.co/PcPqCQ9/mammogram-1578728643.jpg"
+        
+        
+    },
+    {   "id":4,
+        "name":"Mammogram",
+        "title":"Mammography is the process of using low-energy X-rays to examine the human breast for diagnosis and screening. The goal of mammography is the early detection of breast cancer, typically through detection of characteristic masses or microcalcifications.",
+	    "price":"8.99 ",
+        "img":"https://i.ibb.co/rpzG04t/digital-x-ray-1578728587.jpg"
+        
+        
+        
+    },
+    {   "id":5,
+        "name":"OPG",
+        "title":"An OPG is a panoramic X-ray of the upper and lower jaws, including the teeth. The OPG unit is specifically designed to rotate around the patient's head during the scan. An OPG will take approximately 20 seconds. An OPG can be used to look for. Fractures.",
+	    "price":"6.99 ",
+        "img":"https://i.ibb.co/KNvNXz3/spiral-ct-scanner-1578728425.jpg"
+        
+        
+    },
+    {   "id":6,
+        "name":"Renal Biopsy",
+        "title":"Renal biopsy is a medical procedure in which a small piece of kidney is removed from the body for examination, usually under a microscope. Microscopic examination of the tissue can provide information needed to diagnose, monitor or treat problems of the kidney",
+	    "price":"5.99 ",
+        "img":"https://i.ibb.co/2t5J1h6/4d-ultrasonography-1578731852.jpg"
+        
+        
+    },
+    {   "id":7,
+        "name":"Echo Cardiogram",
+        "title":"An echocardiography, echocardiogram, cardiac echo or simply an echo, is an ultrasound of the heart. Echocardiography uses standard two-dimensional, three-dimensional, and Doppler ultrasound to create images of the heart.",
+	    "price":"5.99 ",
+        "img":"https://i.ibb.co/BCZ9xRf/ecg-1578729953.jpg"
+        
+        
+    },
+    {   "id":8,
+        "name":"Duplex study",
+        "title":"Arterial duplex scan is a painless exam that uses high-frequency sound waves (ultrasound) to capture internal images of the major arteries in the arms, legs and neck. A special jelly is placed on the area being examined while a wand-like device called a transducer is passed lightly over the skin above the artery.",
+	    "price":" 5.99 ",
+        "img":"https://i.ibb.co/sm9Qwtd/duplex-study-1578729080.jpg"
+        
+        
+    },
+    
+    {   "id":10,
+        "name":"ECG",
+        "title":"Electrocardiography is the process of producing an electrocardiogram, a recording – a graph of voltage versus time – of the electrical activity of the heart using electrodes placed on the skin",
+	    "price":" 5.99 ",
+        "img":"https://i.ibb.co/bbGqRBr/echo-cardiogram-1578728984.jpg"
+        
+        
+    },
+   
+    
+    {   "id":13,
+        "name":"4D Ultrasonography",
+        "title":"4D scans show moving 3D images of your baby, with time being the fourth dimension. ... With 3D and 4D scans, you see your baby's skin rather than her insides. You may see the shape of your baby's mouth and nose, or be able to spot her yawning or sticking her tongue out.",
+	    "price":" 5.99 ",
+        "img":"https://i.ibb.co/XVCs24n/rinal-biopsy-1578728882.jpg"
+        
+        
+    },
+    {   "id":14,
+        "name":"ULTRASONOGRAPHY",
+        "title":"Medical ultrasound is a diagnostic imaging technique based on the application of ultrasound. It is used to create an image of internal body structures such as tendons, muscles, joints, blood vessels, and internal organs. Its aim is often to find a source of a disease or to exclude pathology.",
+	    "price":"5.99 ",
+        "img":"https://i.ibb.co/KDctpHL/comfortbd-1579068809-1.jpg"
+        
+        
+    },
+   
+    {   "id":17,
+        "name":"UROFLOWMETRY",
+        "title":"Urine flow rate or urinary flow rate is the volumetric flow rate of urine during urination. It is a measure of the quantity of urine excreted in a specified period of time. It is measured with uroflowmetry, a type of flow measurement. The letters 'V' and 'Q' are both used as a symbol for urine flow rate.",
+	    "price":"5.99 ",
+        "img":"https://i.ibb.co/WxB32xL/comfortbd-1579078657.jpg"
+        
+        
+    },
+   
+    
+    {
+        "id":19,
+        "name":"HAEMATOLOGY",
+        "title":"Hematology, also spelled haematology, is the branch of medicine concerned with the study of the cause, prognosis, treatment, and prevention of diseases related to blood",
+	    "price":"5.99 ",
+        "img":"https://i.ibb.co/9Hx916d/comfortbd-1579069481.jpg"
+        
+        
+        
+    },
+    {
+        "id":20,
+        "name":"COLOR DROPPER ECHO",
+        "title":"Similar to an echocardiogram, a Doppler ultrasound (or Doppler echocardiography) is a test in which very high frequency sound waves are bounced off your heart and blood vessels. The returning sound waves (echoes) are picked up and turned into pictures showing blood flow through the arteries or the heart itself.",
+        "price":"5.99 ",
+        "img":"https://i.ibb.co/mTXywsb/comfortbd-1579069338.jpg"
+        
+        
+        
+    },
+    {   "id":21,
+        "name":"ULTRASONOGRAPHY",
+        "title":"Medical ultrasound is a diagnostic imaging technique based on the application of ultrasound. It is used to create an image of internal body structures such as tendons, muscles, joints, blood vessels, and internal organs. Its aim is often to find a source of a disease or to exclude pathology.",
+	    "price":"5.99 ",
+        "img":"https://i.ibb.co/KDctpHL/comfortbd-1579068809-1.jpg"
+        
+        
+    },
+    {   "id":22,
+        "name":"ULTRASONOGRAPHY",
+        "title":"Medical ultrasound is a diagnostic imaging technique based on the application of ultrasound. It is used to create an image of internal body structures such as tendons, muscles, joints, blood vessels, and internal organs. Its aim is often to find a source of a disease or to exclude pathology.",
+	    "price":"5.99 ",
+        "img":"https://i.ibb.co/mTXywsb/comfortbd-1579069338.jpg"
+        
+        
+    },
+    {   "id":23,
+        "name":"Mammogram",
+        "title":"Mammography is the process of using low-energy X-rays to examine the human breast for diagnosis and screening. The goal of mammography is the early detection of breast cancer, typically through detection of characteristic masses or microcalcifications.",
+	    "price":"8.99 ",
+        "img":"https://i.ibb.co/sm9Qwtd/duplex-study-1578729080.jpg"
+        
+        
+        
+    },
+    {   "id":24,
+        "name":"Duplex study",
+        "title":"Arterial duplex scan is a painless exam that uses high-frequency sound waves (ultrasound) to capture internal images of the major arteries in the arms, legs and neck. A special jelly is placed on the area being examined while a wand-like device called a transducer is passed lightly over the skin above the artery.",
+	    "price":" 5.99 ",
+        "img":"https://i.ibb.co/WxB32xL/comfortbd-1579078657.jpg"
+        
+        
+    },
+    {   "id":25,
+        "name":"Renal Biopsy",
+        "title":"Renal biopsy is a medical procedure in which a small piece of kidney is removed from the body for examination, usually under a microscope. Microscopic examination of the tissue can provide information needed to diagnose, monitor or treat problems of the kidney",
+	    "price":"5.99 ",
+        "img":"https://i.ibb.co/mTXywsb/comfortbd-1579069338.jpg"
+        
+        
+    },
+    {   "id":26,
+        "name":"Hemodialysis",
+        "title":"Hemodialysis, also spelled haemodialysis, or simply dialysis, is a process of purifying the blood of a person whose kidneys are not working normally.",
+	    "price":"4.99 ",
+        "img":"https://i.ibb.co/bbGqRBr/echo-cardiogram-1578728984.jpg"
+        
+        
+    }
+        
+        
+    
+
+    
+   
+   
+    
+
+]
